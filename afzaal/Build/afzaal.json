@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Maze",
+"productVersion": "0.1",
+"dataUrl": "afzaal.data.unityweb",
+"wasmCodeUrl": "afzaal.wasm.code.unityweb",
+"wasmFrameworkUrl": "afzaal.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#111111",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
